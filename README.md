@@ -36,7 +36,8 @@ Preferences. Bellow `Show settings` area toggle `All` then
 go to `Interface` ➔ `Main interfaces` ➔ `Lua`, bellow **Lua HTTP** set
 a password.
 
-After that go to View ➔ Add interface ➔ Web.
+After that go to View (VLC menu on OSX) ➔ Add interface ➔ Web.
+
 
 ![VLC Preferences](https://github.com/renatoalencar/atom-vlc/raw/master/vlc-preferences.png)
 
